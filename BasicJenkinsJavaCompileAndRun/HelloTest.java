@@ -1,5 +1,6 @@
 /* 
- * Adding a comment to test 
+ * This test file is monitored by Jenkins for changes.
+ * It will run for each commit
  */
 
 public class HelloTest{
