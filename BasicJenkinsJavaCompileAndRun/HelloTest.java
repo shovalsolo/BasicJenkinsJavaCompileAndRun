@@ -1,6 +1,4 @@
-/* 
- * Adding a comment to test 
- */
+
 
 public class HelloTest{
 	
