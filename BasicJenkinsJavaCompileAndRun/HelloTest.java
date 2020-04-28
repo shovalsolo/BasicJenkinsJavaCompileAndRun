@@ -1,6 +1,7 @@
 /* 
  * This test file is monitored by Jenkins for changes.
  * It will run for each commit
+ * Job name: Test_BasicJenkinsJavaCompileAndRun
  */
 
 public class HelloTest{
